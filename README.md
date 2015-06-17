@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mattcreager/quick-demo.png?label=ready&title=Ready)](https://waffle.io/mattcreager/quick-demo)
 # button-sample
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
